@@ -1,1 +1,3 @@
 This filed is used to test Git and Github
+following the snippet on CodeCourse
+this is an edit done in the second branch
